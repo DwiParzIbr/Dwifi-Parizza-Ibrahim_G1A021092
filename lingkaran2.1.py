@@ -11,4 +11,4 @@ luas = phi * (r**2)
 #karena luas dari sebuah lingkaran adalah phi*r*r maka dapat dipersingkat menjadi phi*r2
 
 print("Luas lingkaran adalah: "+ str(luas))
-#maka luas sebuah lingkaran bisa didapatkan d
+#maka luas sebuah lingkaran dapat ditemukan
