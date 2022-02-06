@@ -1,4 +1,4 @@
-#Ini merupakan salah satu penerapan ADT dalam kehidupan sehari-hari
+#Ini merupakan salah satu penerapan Abstrak Data Type (ADT) dalam kehidupan sehari-hari
 #contohnya pada luas lingkaran seperti yang ada dibawah ini
 
 phi = 3.14
